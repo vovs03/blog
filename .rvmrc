@@ -1,0 +1,5 @@
+#  create gemset for Ruby 2.5.1 & Rails 5.2
+# Vladimir Pavlychev
+# Protvino
+# 2018-07-23
+rvm use 2.5.1@blog
