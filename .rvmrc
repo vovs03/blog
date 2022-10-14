@@ -1,5 +1,8 @@
 #  create gemset for Ruby 2.5.1 & Rails 5.2
 # Vladimir Pavlychev
-# Protvino
 # 2018-07-23
-rvm use 2.5.1@blog
+# 2022-10-14 UPD
+
+# https://rvm.io/gemsets/using
+rvm_gemset_create_on_use_flag=1
+rvm use 2.7.1@blog
